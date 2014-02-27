@@ -1,0 +1,220 @@
+.backgroundimg{
+    width: 100%;
+    height: 100%; 
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;   
+    background:  no-repeat top center / cover;
+    position: relative; 
+}
+
+html, body {
+    height: 100% !important;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+    color: #FFFFFF;
+    font-weight: normal;
+}
+
+p{
+    color: #FFFFFF;
+}
+nav {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+#dentec-bg{
+    background-attachment: fixed;
+}
+#slide1{
+    height: 930px;
+    overflow: hidden;
+}
+
+#slide2{
+    height: 1040px;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+#slide3{
+    height: 970px;
+    background-attachment: fixed;
+}
+
+.firstcontent{
+    position: absolute;
+    right: 0;
+    top: 62px;
+    width: 320px;
+}
+.Content1 h1 {
+    color: #000000; 
+}
+.Content1 p{
+    color: #000000; 
+}
+#slide3 h1 {
+    color: #000000; 
+}
+#slide3 p{
+    color: #000000; 
+}
+.Content1{
+    color: #000000;
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 1080px;
+}
+.Content2{
+    bottom: 50px;
+    left: 60px;
+    position: absolute;
+    width: 470px;
+}
+#cloud1{
+    left: 50px;
+    position: absolute;
+    top: 90px;
+    opacity: 0;
+}
+#cloud2{
+    left: 680px;
+    position: absolute;
+    top: 310px;
+    opacity: 0;
+    z-index: 1003;
+}
+#ipad{
+    bottom: -130px;
+    left: 140px;
+    position: absolute;
+    width: 100%;
+    opacity: 0;
+    z-index: 1000;
+}
+.exclamation{
+    opacity: 0;
+}
+#star{
+    bottom: 200px;
+    position: absolute;
+    right: 80px;
+    overflow: hidden;
+    height: 270px;
+    opacity: 0;
+
+}
+
+#exclamation1{
+    bottom: 200px;
+    left: 0;
+    position: absolute;
+}
+#exclamation2{
+    bottom: 220px;
+    left: 30px;
+    position: absolute;
+}
+#exclamation3{
+    bottom: 240px;
+    left: 70px;
+    position: absolute;
+}
+#exclamation4{
+    bottom: 260px;
+    left: 109px;
+    position: absolute;
+}
+#Fb-header{
+
+}
+#slide2 .container{
+    background-image:url('../images/DentecCS/fb-bg.jpg');
+
+}
+
+
+#Fb_slide1 {
+    left: 60px;
+    position: absolute;
+    opacity: 0;
+}
+
+#Fb_slide2{
+    right: 60px;
+    position: absolute;
+    opacity: 0;
+}
+#doted-line{
+    padding-left: 60px;
+    position: absolute;
+    bottom:120px;
+}
+#hand{
+    bottom: -10px;
+    position: absolute;
+    right: 50px;
+    opacity: 0;
+}
+
+#riple{
+    bottom: 400px;
+    position: absolute;
+    right: 162px;
+    opacity: 0;
+}
+#blue{
+    width: 100%;
+    height: 10px;
+    background: #3B5997;
+}
+
+#fb-bg2{
+    background-image:url('../images/DentecCS/fb-bg2.jpg');
+    height: 100%;
+}
+#star2{
+    left: 350px;
+    position: absolute;
+    top: 50px;
+}
+#palaroid1{
+    left: 60px;
+    position: absolute;
+    top: 100px;
+    opacity: 0;
+}
+#palaroid2{
+    left: 290px;
+    position: absolute;
+    top: 170px;
+    opacity: 0
+}
+#cloud3{
+    left: 310px;
+    position: absolute;
+    top: 100px;
+    opacity: 0;
+}
+#fb-slide3{
+    position: absolute;
+    right: 80px;
+    top: 70px;
+}
+#cloud4{
+    bottom: 250px;
+    position: absolute;
+    right: 90px;
+    z-index: 10;
+    opacity: 0
+}
+#reason_to_smile{
+    position: absolute;
+    right: 80px;
+    bottom: 10px;
+}
